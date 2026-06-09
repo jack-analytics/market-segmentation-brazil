@@ -101,6 +101,15 @@ Os resultados mostram que municípios com níveis semelhantes de riqueza podem a
 
 ---
 
+## Principais Insights
+
+- Os municípios mais ricos do Brasil não são necessariamente os maiores mercados consumidores.
+- Foram identificados quatro perfis distintos de mercado.
+- PIB per capita, população e densidade demográfica contam histórias complementares.
+- A clusterização permitiu segmentar os 5.570 municípios brasileiros em grupos economicamente semelhantes.
+  
+---
+
 ## Tecnologias Utilizadas
 
 * Python
